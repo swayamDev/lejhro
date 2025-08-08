@@ -218,7 +218,7 @@ const Blog = () => {
                 forefront critical concerns surrounding privacy and data
                 protection. As the collection, storage, and analysis of vast
                 amounts of personal information become increasingly prevalent,
-                individuals' privacy rights must be safeguarded to prevent
+                individuals&apos; privacy rights must be safeguarded to prevent
                 misuse, unauthorized access, and potential breaches. The
                 unauthorized sharing or sale of personal data can lead to
                 serious consequences, including identity theft, financial fraud,

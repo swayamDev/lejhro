@@ -53,7 +53,7 @@ export default function Navbar() {
               className="hidden items-center px-3 py-2 font-bold text-[#2c7fbf] transition-colors hover:text-[#1f5f8a] sm:flex"
               aria-label="Go to Contact Us page"
             >
-              Let's Talk
+              Let&apos;s Talk
               <MdArrowRightAlt size={20} className="ml-1" aria-hidden="true" />
             </Link>
 
